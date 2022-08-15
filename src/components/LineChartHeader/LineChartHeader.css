@@ -1,0 +1,86 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+.container .YourWorkSummary{
+    color:#fff;
+    text-align: left;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 20px;
+
+  
+}
+.new{
+    margin-top: 20px;
+color: #fff;
+font-size: 16px;
+line-height: 24px;
+margin-left: 421px;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+    background-color: #246CF9; border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .dot1 {
+    height: 12px;
+    width: 12px;
+    background-color: 	#FF1493; border-radius: 50%;
+    display: inline-block;
+  }
+
+.daily{
+    display: flex;
+flex-direction: row;
+align-items: center;
+margin: 20px;
+
+
+}
+  .daily .btn1{
+    width: 47px;
+height: 27px;
+background: #246CF9;
+border-bottom-left-radius:  6px;
+border-top-left-radius:  6px;
+color: floralwhite;
+border: none;
+  }
+  .daily .btn2{
+    border: none;
+    width: 80px;
+height: 27px;
+background: #282C38;
+border-bottom-right-radius:  6px;
+border-top-right-radius:  6px;
+color: floralwhite;
+  }
+
+
+  .novJuly{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #757B8C;
+  text-align: left;
+   margin-top: 47px;
+   margin-left: 20px;
+   
+  }
+ 
+ 
+  
+  
+  
+
+  

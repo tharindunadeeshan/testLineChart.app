@@ -1,0 +1,56 @@
+.linechartBody{
+    background-color: #1E1F25;
+    margin: 20px;
+    border-radius: 20px;
+  
+
+}
+
+  
+ 
+ .linesss{
+    margin-bottom: 50px;
+ }
+
+ .custom-tooltip{
+   
+    display: flex;
+  
+     justify-content: center;
+     align-items: flex-start;
+     width: 300px;
+     height: 150px; 
+     background: rgba(60, 66, 84, 0.5);
+     border: 1px solid #3C4254;
+     backdrop-filter: blur(14px);
+     border-radius: 8px;
+     
+ }
+ .lastmonthdot {
+    margin-top: 20px;
+    margin-left: 2px;
+    height: 12px;
+    width: 12px;
+    background-color: #246CF9; border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .thismonthDot {
+    margin-left: 2px;
+    height: 12px;
+    width: 12px;
+    background-color: 	#FF1493; border-radius: 50%;
+    display: inline-block;
+    
+  }
+  
+  .up {
+    color: #11CABE;
+  }
+  
+  .down {
+    color: #FA2256;
+  }
+.toolst{
+    margin: 20px;
+}
